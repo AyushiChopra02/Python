@@ -17,6 +17,6 @@ for i in range(n):
         list = [int(x) for x in input().split()]
     X=int(input())
     if faltu1!=0 :
-        triplesum(list,X)
+        triplesum(list ,X)
     else:
         print(0)
