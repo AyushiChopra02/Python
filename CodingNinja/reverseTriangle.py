@@ -7,7 +7,7 @@ while i <=n :
         spaces = spaces + 1
     stars = 1
     while stars <= i:
-        print('*' , end="")
+        print('*', end="")
         stars = stars + 1
         print()
         i = i+1
