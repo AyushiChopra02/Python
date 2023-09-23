@@ -4,7 +4,7 @@ while i<= n:
     j=1
     p=i
     while j<= i :
-        print(p , end="")
+        print(p , end ="")
         j = j+1 
         p= p+1
     print()
