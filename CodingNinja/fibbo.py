@@ -4,7 +4,7 @@ def checkMember(n):
     while a < n:
         c =a + b
         a = b
-        b = c
+        b= c
     if a == n:
         return True
     else:
