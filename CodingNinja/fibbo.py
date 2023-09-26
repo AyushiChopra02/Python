@@ -3,7 +3,7 @@ def checkMember(n):
     b = 1
     while a < n:
         c =a + b
-        a = b
+        a= b
         b = c
     if a == n:
         return True
