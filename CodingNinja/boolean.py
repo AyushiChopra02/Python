@@ -1,4 +1,4 @@
-#boolean
+#boolean 
 c = True
 print(type(c))
 
