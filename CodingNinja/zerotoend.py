@@ -30,7 +30,7 @@ def printList(arr, n) :
     print()
 
 
-#main
+
 t = int(stdin.readline().strip())
 
 while t > 0 :
