@@ -14,7 +14,7 @@ for i in range(n):
     faltu1=int(input()) #Secound input #no of ele in list
     if faltu1!=0:
         list = [int(x) for x in input().split()]
-    X=int(input()) #3rd Input
+    X=int(input()) 
     if faltu1!=0 :
         duplicate(list,X)
     else:
