@@ -5,8 +5,8 @@ def duplicate (list1,sum):
         for j in range(i+1,size):
             if list1[i] + list1[j]==sum:
                 sum_time+=1
-            else:
-                continue
+            else :
+                continue 
     print(sum_time)
 
 n=int(input()) 
