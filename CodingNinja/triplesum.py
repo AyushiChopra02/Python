@@ -18,5 +18,5 @@ for i in range(n):
     X=int(input())
     if faltu1!=0 :
         triplesum(list,X)
-    else:
+    else :
         print(0)
