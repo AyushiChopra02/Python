@@ -8,7 +8,7 @@ def triplesum (list1,sum):
                     sum_time+=1
                 else:
                     continue
-    print(sum_time)
+    print(sum_time )
 
 n=int(input())
 for i in range(n):
