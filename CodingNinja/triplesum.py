@@ -2,7 +2,7 @@ def triplesum (list1,sum):
     sum_time=0
     n=len(list1)
     for i in range(0,n):
-        for j in range(i+1,n):
+        for j in range(i+1 ,n):
             for k in range(j+1,n):
                 if list1[i] + list1[j]+ list1[k]==sum:
                     sum_time+=1
