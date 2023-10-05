@@ -8,6 +8,6 @@ while i <=n :
     stars = 1
     while stars <= i:
         print('*',  end ="")
-        stars = stars + 1
+        stars =  stars + 1
         print()
         i = i+1
