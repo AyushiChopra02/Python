@@ -19,7 +19,7 @@ def takeInput():
         return list(), 0
 
     arr = list(map(int, stdin.readline().rstrip().split(" ")))
-    return arr , n
+    return arr, n
 
 
 
