@@ -11,11 +11,11 @@ def swapAlternate(arr, n):
             arr[i], arr[i+1] = arr[i+1], arr[i]
 
 
-#Taking Input Using Fast I/O
+
 def takeInput():
     n = int(stdin.readline().rstrip())
 
-    if n == 0:
+    if n == 0 :
         return list(), 0
 
     arr = list(map(int, stdin.readline().rstrip().split(" ")))
