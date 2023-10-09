@@ -20,7 +20,7 @@ def takeInput():
 
 
 
-#main
+
 t = int(sys.stdin.readline().strip())
 
 while t > 0 :
