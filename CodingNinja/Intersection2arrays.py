@@ -16,7 +16,7 @@ def takeInput():
         return list() ,0
 
     arr = list(map(int, sys.stdin.readline().strip().split(" ")))
-    return arr, n
+    return arr , n
 
 
 
