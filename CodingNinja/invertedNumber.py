@@ -6,4 +6,4 @@ while r<=n :
         print(n-r+1,end="")
         c+=1
     print()
-    r+=1
+    r+= 1
