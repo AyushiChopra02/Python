@@ -1,5 +1,5 @@
 n=int(input())
-r=1
+r= 1
 while r<=n :
     c=1
     while c<=(n-r+1):

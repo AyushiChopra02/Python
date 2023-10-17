@@ -11,7 +11,7 @@ def checkMember(n):
         return False
         
 n=int(input())
-if(checkMember(n)):
+if(checkMember(n)) :
     print("true")
 else:
     print("false ")
