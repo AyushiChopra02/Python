@@ -1,6 +1,6 @@
 n=int(input())
 r= 1
-while r<=n:
+while r<=n :
     c=1
     while c<=(n-r+1):
         print(n-r+1,end="")
