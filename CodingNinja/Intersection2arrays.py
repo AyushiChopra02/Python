@@ -2,7 +2,7 @@ import sys
 
 def intersections(arr1, n, arr2, m):
     for i in range(n):
-        for j in range(m):
+        for j in range(m) :
             if arr1[i] == arr2[j]:
                 print(arr1[i],end =" ")
                 arr2[j] = sys.maxsize
