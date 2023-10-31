@@ -12,7 +12,7 @@ def intersections(arr1, n, arr2, m):
 def takeInput():
     n = int(sys.stdin.readline().strip())
 
-    if n == 0 :
+    if n == 0:
         return list() ,0
 
     arr = list(map(int, sys.stdin.readline().strip().split(" ")))
