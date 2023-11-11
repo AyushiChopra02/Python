@@ -11,6 +11,6 @@ print(a > b)
 n= int(input())
 if n %2 == 0:
     print("even")
-else:
+else :
     print("odd")   
 
