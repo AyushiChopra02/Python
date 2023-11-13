@@ -13,4 +13,4 @@ def printTable(s, e, w):
 s = int(input())
 e = int(input())
 step = int(input())
-printTable(s, e , step)
+printTable(s, e, step)
