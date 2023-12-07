@@ -16,7 +16,7 @@ class Atm:
 
 
 """)
-   if user_input == "1":
+   if user_input == "1 ":
     self.create_pin()
    elif user_input == "2":
     print("withdraw")
