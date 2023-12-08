@@ -6,7 +6,7 @@ class Atm:
   self.menu()
   def menu(self):
 #    triple iverted cmma for mutiple strings
-   user_input = input("""
+   user_input =  input("""
                 hello, how would you like to proceed?
                       1. enter 1 to create pin 
                       2. enter 2 to deposit
