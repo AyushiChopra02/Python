@@ -10,3 +10,4 @@ class Customer :
     print(id(cust))
     greet(cust)
     print(cust.name)
+    # class k obj are also mutable likr list , dict , sets
