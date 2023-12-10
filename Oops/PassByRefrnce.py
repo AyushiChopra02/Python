@@ -1,5 +1,5 @@
 class Customer :
-    def __init__(self, name):
+    def __init__( self, name):
         self.name = name
     def greet(customer):
         print(id(customer))
