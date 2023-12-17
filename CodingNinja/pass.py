@@ -1,4 +1,4 @@
 i =3
-if i< 7 :
+if i< 7  :
     pass
 print("hey")
