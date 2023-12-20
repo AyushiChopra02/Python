@@ -10,7 +10,7 @@ def duplicate (list1,sum):
     print(sum_time)
 
 n=int(input()) 
-for i in range(n) :
+for i in range(n)  :
     faltu1=int(input()) #Secound input #no of ele in list
     if faltu1!=0:
         list = [int(x) for x in input().split()]
