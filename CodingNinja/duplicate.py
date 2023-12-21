@@ -3,7 +3,7 @@ def duplicate (list1,sum):
     size=len(list1)
     for i in range(0,size):
         for j in range(i+1,size):
-            if list1[i] + list1[j]==sum:
+            if list1[i] + list1[j]==sum :
                 sum_time+=1
             else :
                 continue 
